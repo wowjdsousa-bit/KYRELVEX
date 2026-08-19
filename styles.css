@@ -5,6 +5,7 @@
   --violet:#9677ff;--violet2:#6950d9;--cyan:#65d9ff;--green:#70e0a3;
   --shadow:0 30px 90px rgba(0,0,0,.45);--radius:22px;--max:1180px;
 }
+[hidden]{display:none!important}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:
 radial-gradient(900px 600px at 75% -5%,rgba(105,80,217,.12),transparent 65%),
 linear-gradient(180deg,#080a0f 0%,#090c12 55%,#07090d 100%);
