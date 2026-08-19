@@ -4,7 +4,7 @@
   hold KYRELVEX Releases. No secret/token is required for public releases.
 */
 window.KYRELVEX_CONFIG = {
-  githubOwner: ""wowjdsousa-bit"",
+  githubOwner: "wowjdsousa-bit",
   githubRepo: "KYRELVEX",
   preferredAssetPattern: /\.zip$/i,
   maxReleaseHistory: 8
